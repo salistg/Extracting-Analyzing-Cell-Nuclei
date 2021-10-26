@@ -6,13 +6,12 @@ TO RUN THE nucleiAnalysis FUNCTION:
 
 SETTING UP:
 
-1- Unzip the 'COMP2032-ELSAID-20050927' ZIP file to get the 'COMP2032-ELSAID-20050927' folder.
+1- Unzip the 'Extracting-Analyzing-Cell-Nuclei' ZIP file to get the 'Extracting-Analyzing-Cell-Nuclei' folder.
 
 The folder extracted from the ZIP file should contain 4 items:
    1. Matlab Codes folder
-   2. COMP2032-REPORT-20050927 file (academic report)
-   3. COMP2032-VIDEO-20050927 file (demonstration video)
-   4. README.txt file
+   2. REPORT file (academic report)
+   3. README.txt file
 
 2- Open the 'Matlab Codes' folder in Matlab by pasting the address of the folder in Matlab's
 address bar or by navigating to the folder.
